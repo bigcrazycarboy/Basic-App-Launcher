@@ -1,2 +1,2 @@
-# Basic-App-Launcher
-Use this to launch an exe from the command line
+# BasicAppLauncher
+Launches any app based on a command line argument
